@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "deploy": "gh-pages -d out --nojekyll -f --branch gh-pages --repo https://github.com/axioris/portfolio.git"
   },
   "homepage": "https://axioris.github.io/portfolio",
   "dependencies": {
