@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d out --nojekyll -f --branch gh-pages --repo https://github.com/axioris/portfolio.git"
   },
-  "homepage": "https://axioris.github.io/portfolio",
+  "homepage": "https://www.axioris.com",
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
     "@iconify/react": "^5.0.1",
