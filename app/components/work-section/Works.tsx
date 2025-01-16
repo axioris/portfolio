@@ -28,7 +28,7 @@ export default function Works() {
       about:
         "AvaxQueen is a Web3 battle-style online multiplayer card game which includes a stunning design, interactive gameplay, smart wallet pairing, live interaction with smart contracts, & most importantly, the ability to battle other players in realtime.",
       stack: ["hardhat", "openzeppelin", "react.js", "typescript", "solidity", "css"],
-      img: "/2.Avax Queen.png",
+      img: "/2.AvaxQueen.png",
     },
     {
       title: "Farmers World",
