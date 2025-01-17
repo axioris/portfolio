@@ -21,7 +21,7 @@ function NotFound() {
           Page not found
         </h1>
         <div className="relative col-span-3">
-          <Image className="w-fit" src="/portfolio/pnf.svg" fill alt="remorse" />
+          <Image className="w-fit" src="/pnf.svg" fill alt="remorse" />
         </div>
       </div>
       <Link

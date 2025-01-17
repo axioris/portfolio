@@ -7,7 +7,7 @@ const syne = Syne({ subsets: ["latin"] });
 
 const TimelineData = [
   {
-    companyImg: "/portfolio/pontem.svg",
+    companyImg: "/pontem.svg",
     jobTitle: "Lead Blockchain Solutions Architect",
     company: "Pontem Innovations",
     jobType: "Remote",
@@ -19,7 +19,7 @@ const TimelineData = [
     ],
   },
   {
-    companyImg: "/portfolio/default.svg",
+    companyImg: "/default.svg",
     jobTitle: "Blockchain Network Optimization Specialist",
     company: "Amberdata",
     jobType: "Remote",
@@ -31,7 +31,7 @@ const TimelineData = [
     ],
   },
   {
-    companyImg: "/portfolio/multis.svg",
+    companyImg: "/multis.svg",
     jobTitle: "Decentralized Finance (DeFi) Solutions Developer",
     company: "Multis",
     jobType: "Remote",
@@ -47,7 +47,7 @@ const TimelineData = [
     ],
   },
   {
-    companyImg: "/portfolio/roobinium.svg",
+    companyImg: "/roobinium.svg",
     jobTitle: "Blockchain Network Optimization Specialist",
     company: "Roobinium Corp",
     jobType: "Internship",
