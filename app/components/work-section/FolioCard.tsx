@@ -39,10 +39,10 @@ export default function FolioCard({
     >
       <Image
         src={img}
-        width={420}
+        width={475}
         height={700}
         alt="work"
-        className="rounded-[10px] w-full lg:col-span-5"
+        className="rounded-[10px] lg:col-span-5"
       />
       <div className="flex flex-col gap-4 lg:col-span-7">
         <div className="flex items-center justify-between">

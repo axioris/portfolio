@@ -61,13 +61,13 @@ export const metadata: Metadata = {
     siteName: "",
     images: [
       {
-        url: "https://i.ibb.co/FKMqc28/dane-foster-logo.png",
+        url: "https://i.ibb.co/FKMqc28/dane-foster-logo.svg",
         width: 1200,
         height: 630,
         alt: "Dane Foster - Solana & Bitcoin Developer",
       },
       {
-        url: "https://i.ibb.co/Y8hBTR4/dane-foster.png",
+        url: "https://i.ibb.co/Y8hBTR4/dane-foster.svg",
         width: 800,
         height: 800,
         alt: "Dane Foster - Solana & Bitcoin Developer",
@@ -82,7 +82,7 @@ export const metadata: Metadata = {
     description:
       "Blockchain Developer passionate about innovating in Solana and Bitcoin ecosystems. I drive growth by building decentralized solutions that merge cutting-edge technology with seamless user experiences. I excel in transforming complex ideas into robust, scalable blockchain applications.",
     creator: "@danefoster0",
-    images: ["https://i.ibb.co/FKMqc28/dane-foster.png"],
+    images: ["https://i.ibb.co/FKMqc28/dane-foster.svg"],
   },
   robots: {
     index: true,

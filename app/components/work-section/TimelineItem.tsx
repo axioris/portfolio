@@ -36,7 +36,7 @@ export default function TimelineItem({
       }`}
     >
       <Image
-        src="/position-icon.svg"
+        src="/portfolio/position-icon.svg"
         width={24}
         height={24}
         alt="current"
