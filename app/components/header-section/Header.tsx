@@ -64,7 +64,7 @@ export default function Header() {
             <Link target="_blank" href="https://x.com/danefoster0">
               <Icon icon="akar-icons:x-fill" />
             </Link>
-            <Link target="_blank" href="https://t.me/danefoster">
+            <Link target="_blank" href="https://t.me/axioris">
               <Icon icon="akar-icons:telegram-fill" />
             </Link>
             <Link target="_blank" href="https://discord.com/users/354781324558467073">
