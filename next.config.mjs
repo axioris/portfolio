@@ -3,8 +3,8 @@ const isProd = process.env.NODE_ENV === 'production';
 
 const nextConfig = {
   reactStrictMode: true,
-  basePath: isProd ? '/portfolio' : '',
-  assetPrefix: isProd ? '/portfolio' : '',
+  basePath: isProd ? '' : '',
+  assetPrefix: isProd ? '' : '',
   output: 'export',
 };
 

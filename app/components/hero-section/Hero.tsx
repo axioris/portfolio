@@ -81,7 +81,7 @@ export default function Hero() {
             className="col-span-3"
           >
             <Image
-              src="/portfolio/hand-wave.svg"
+              src="./portfolio/hand-wave.svg"
               width={30}
               height={30}
               alt="hand-waving"
@@ -119,7 +119,7 @@ export default function Hero() {
           animate={animateIn1}
         >
           <Image
-            src="/portfolio/avatar.svg"
+            src="./portfolio/avatar.svg"
             priority
             fill
             alt="Dane's picture"
