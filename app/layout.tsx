@@ -10,10 +10,11 @@ import { ViewProvider } from "@/contexts/ViewContext";
 const kumbhSans = Kumbh_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Dane Foster - Solana & Bitcoin Developer",
+  title: "Axioris (Dane Foster) - Solana & Bitcoin Developer",
   description:
-    "Blockchain Developer passionate about innovating in Solana and Bitcoin ecosystems. I drive growth by building decentralized solutions that merge cutting-edge technology with seamless user experiences. I excel in transforming complex ideas into robust, scalable blockchain applications.",
+    "Axioris (Dane Foster) is a Blockchain Developer passionate about innovating in Solana and Bitcoin ecosystems. I drive growth by building decentralized solutions that merge cutting-edge technology with seamless user experiences. I excel in transforming complex ideas into robust, scalable blockchain applications.",
   keywords: [
+    "axioris",
     "solana",
     "bitcoin",
     "blockchain",
@@ -54,7 +55,7 @@ export const metadata: Metadata = {
     "scalping bot",
   ],
   openGraph: {
-    title: "Dane Foster - Solana & Bitcoin Developer",
+    title: "Axioris - Solana & Bitcoin Developer",
     description:
       "Blockchain Developer passionate about innovating in Solana and Bitcoin ecosystems. I drive growth by building decentralized solutions that merge cutting-edge technology with seamless user experiences. I excel in transforming complex ideas into robust, scalable blockchain applications.",
     url: "",
@@ -64,13 +65,13 @@ export const metadata: Metadata = {
         url: "https://i.ibb.co/FKMqc28/dane-foster-logo.svg",
         width: 1200,
         height: 630,
-        alt: "Dane Foster - Solana & Bitcoin Developer",
+        alt: "Axioris - Solana & Bitcoin Developer",
       },
       {
         url: "https://i.ibb.co/Y8hBTR4/dane-foster.svg",
         width: 800,
         height: 800,
-        alt: "Dane Foster - Solana & Bitcoin Developer",
+        alt: "Axioris - Solana & Bitcoin Developer",
       },
     ],
     locale: "en-US",
@@ -78,7 +79,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Dane Foster — Solana & Bitcoin Developer",
+    title: "Axioris — Solana & Bitcoin Developer",
     description:
       "Blockchain Developer passionate about innovating in Solana and Bitcoin ecosystems. I drive growth by building decentralized solutions that merge cutting-edge technology with seamless user experiences. I excel in transforming complex ideas into robust, scalable blockchain applications.",
     creator: "@danefoster0",
