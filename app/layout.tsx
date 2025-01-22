@@ -77,6 +77,9 @@ export const metadata: Metadata = {
     locale: "en-US",
     type: "website",
   },
+  verification: {
+    google: "ur_cTpv7uPouNiKVzgGpTjNXtocKX37k1s0d7QZwcJs"
+  },
   twitter: {
     card: "summary_large_image",
     title: "Axioris — Solana & Bitcoin Developer",
